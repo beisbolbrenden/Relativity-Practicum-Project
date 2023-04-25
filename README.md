@@ -1,1 +1,1 @@
-# Relativity-Practicum-Project
+# Relativity DNSC 6317 Business Analytics Practicum Project 
